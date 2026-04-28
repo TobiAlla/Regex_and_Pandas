@@ -6,10 +6,10 @@
 HWPandas documentation
 ======================
 
-CHANGE THE NAME OF THE MODULE hello BELOW AFTER YOU CHANGE THE NAME OF hello.py TO MATCH YOUR PROJECT!
+CHANGE THE NAME OF THE MODULE pandas BELOW AFTER YOU CHANGE THE NAME OF pandas.py TO MATCH YOUR PROJECT!
 Then you can change these documentation lines
 
-.. automodule:: hello
+.. automodule:: pandas
    :members:
    :undoc-members:
    :show-inheritance:
